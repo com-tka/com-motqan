@@ -1,0 +1,23 @@
+motqan/
+│
+├── index.html
+├── style.css
+├── script.js
+├── config.php
+├── db.php
+├── header.php
+├── footer.php
+├── product.php
+├── login.php
+├── register.php
+├── cart.php
+├── add_to_cart.php
+├── login_action.php
+├── register_action.php
+├── logout.php
+├── review_action.php
+├── reviews.php
+├── search.php
+├── about.php
+├── contact.php
+└── checkout.php
